@@ -1,5 +1,3 @@
-import {motion} from "framer-motion";
-import {PiCaretRightDuotone, PiCaretLeftDuotone} from "react-icons/pi";
 
 const ToggleButton = ({setOpen, open}) => {
     return (

@@ -1,6 +1,5 @@
 import "./hero.scss";
 import {motion} from "framer-motion";
-import {log} from "three/nodes";
 
 const textVariants = {
     initial: {
